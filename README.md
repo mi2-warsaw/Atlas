@@ -10,3 +10,8 @@ Obszary
 * Sport
 * Polityka
 
+Waffle
+------
+
+https://waffle.io/mi2-warsaw/Atlas
+
