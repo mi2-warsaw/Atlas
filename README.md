@@ -1,5 +1,5 @@
-Graficzny Atlas Polski
-======================
+Cyfrowy Atlas Polski
+====================
 
 Obszary
 
