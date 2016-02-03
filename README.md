@@ -4,7 +4,7 @@ Cyfrowy Atlas Polski
 Obszary
 
 * Zdrowie
-* Edukacja
+* Edukacja (opiekun: Aleksander Zawalich (azawalich))
 * Demografia
 * Ekonomia
 * Sport
