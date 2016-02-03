@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mi2-warsaw/Atlas.png?label=ready&title=Ready)](https://waffle.io/mi2-warsaw/Atlas)
 Cyfrowy Atlas Polski
 ====================
 
