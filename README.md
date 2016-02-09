@@ -7,7 +7,7 @@ Obszary
 * Zdrowie
 * Edukacja (opiekun: Aleksander Zawalich (azawalich))
 * Demografia
-* Ekonomia
+* Ekonomia  (opiekun: Tomek Mikołajczyk, ...)
 * Sport
 * Polityka
 
